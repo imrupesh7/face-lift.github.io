@@ -1,0 +1,843 @@
+
+.footer-mobile{
+    display: none;
+}
+.download-brochure{
+    display: none;
+}
+.swipe-right{
+    display: none;
+}
+
+
+@media screen and (max-width:992px){
+
+.banner {
+  margin-top: 70px;
+  height: auto;
+    
+}
+}
+
+@media screen and (max-width:768px){
+.demo-class-videos .container .hdng {
+    padding-left: 45px;
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+.demo-class-videos .slider-outer {
+    margin-bottom: 35px;
+}
+.demo-class-videos .owl-nav{
+    display: none !important;
+}
+.how-edumont-better{
+    position: relative;
+}
+
+    .swipe-right{
+          display: block;
+    float: right;
+    padding-bottom: 6px;
+    color: #fff;
+    }
+    .how-edumont-better .swipe-right{
+         color: #555;
+    display: block;
+    position: absolute;
+    right: 12px;
+    z-index: 93;
+    top: 75px;
+    }
+    .uscpa-jobs-seek-slider .owl-dots {
+    display: block !important;
+}
+.what-students-aboutus .img h4 img{
+    border-radius: 4px;
+}
+.download-brochure{
+ display: block;
+    position: absolute;
+    right:8px;
+    top: 9px;
+}
+.download-brochure a{
+/* background: #bf072b; */ 
+    display: block;
+    padding: 8px 15px;
+    border-radius: 5px;
+    color: #ffffff;
+    letter-spacing: 1px;
+    border: 1px solid #ffffff;
+}
+.video-container {
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 20px;
+}
+.banner .video-container iframe {
+    border: 0;
+    height: 200px;
+    width: 100%;
+}
+.banner .video-poster{
+background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 200px;
+}
+.ques-score-brekdwn .graph-detail .graph-box{
+    padding: 0px !important;
+}
+
+.banner .play i{
+        opacity: 0.8;
+            bottom: 46%;
+}
+
+
+    section {
+    padding:35px 0px;
+}
+h3.title{
+      font-size: 24px;
+    margin-bottom: 35px;
+    font-weight: 600;
+    padding: 0 5px;
+}
+
+header {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    top: 0px;
+    height: 70px;
+    background: white;
+    text-align: left;
+    box-shadow: 0px 6px 10px -5px #fff;
+}
+header .logo img {
+    width:150px;
+     padding: 1px 0 0 0;
+}
+.video-banner iframe{
+        width: 100%;
+    height: 165px;
+}
+.book-now .form-container{
+        padding: 10px;
+}
+.book-now .form-container h4{
+font-weight: 600;
+    font-size: 24px;
+    padding: 0px;
+    margin-bottom: 15px;
+}
+.book-now .form-container h4 span{
+        padding-bottom:12px;
+}
+
+.book-now .form-group .form-control{
+        padding: 6px 10px;
+    font-size: 14px;
+}
+
+.book-now .form-group .form-select{
+        color: #898989;
+           padding: 6px 10px;
+            font-size: 14px;
+}
+.book-now .cstm-btn button.btn-cstm{
+        padding: 5px 10px 5px 10px;
+            font-weight: 500;
+            width:100%;
+}
+.book-now .cstm-btn{
+        margin-top: 20px;
+}
+
+.cpa-exam-explained .table {
+    background-color: #fff;
+    width: 100%;
+    overflow-x: scroll;
+    display: list-item;
+}
+.happy-student .owl-nav button.owl-next {
+    float: right;
+    position: relative;
+    right: 0;
+}
+.happy-student .owl-nav button.owl-prev {
+    float: left;
+    position: relative;
+    left: 0;
+}   
+
+/*.banner-img{*/
+/*    margin-top:20px;*/
+/*}*/
+
+.banner  {
+    height: auto;
+    padding: 0 0 10px 0;
+    overflow: hidden;
+    margin-top: 70px;
+    display:none;
+    
+}
+.banner .book-now .form-container{
+      padding: 0px 15px 30px 15px;
+      margin-top:20px;
+}
+
+.mobile-banner{
+    display:block;
+}
+
+.why-us-cpa .box .img {
+    height: auto;
+    margin-bottom: 15px;
+}
+.why-us-cpa .box h4 {
+font-size: 16px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.owl-dots{
+margin-bottom: 10px;
+    bottom: 0;
+    width: 165px;
+    margin-top:20px;
+}
+.demo-class-videos {
+    padding:35px 0px 10px 0px;
+}
+.demo-class-videos .detail {
+    padding-left: 0;
+}
+.demo-class-videos .accordion .accordion-body {
+    border-top: 1px solid #e5e5e5;
+    padding: 10px;
+}
+.demo-class-videos .video iframe {
+    height: 185px;
+}
+.demo-class-videos .detail p {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+.demo-class-videos h3.title{
+    margin-bottom: 10px;
+}
+.demo-class-videos h4 {
+ margin-bottom: 20px;
+    font-size: 18px;
+}
+.demo-class-videos h3.title {
+    margin-bottom: 6px;
+}
+.talk-our-students .right-box-video .video-frame {
+  position: relative;
+    display: inline-block;
+    text-align: center;
+    height: 195px;
+    overflow: hidden;
+}
+.talk-our-students .right-box-video .video-frame iframe{
+    position: absolute;
+    left: 46px;
+    height: 161px;
+    width: 226px;
+    top: 14px;
+    z-index: 9;
+}
+.talk-our-students .right-box-video .video-frame img {
+    position: relative;
+    z-index: 9;
+    height: 275px;
+}
+.cpa-exam-pattern .covers-sas .img img{
+    width:100%;
+}
+.demo-class-videos .box{
+    height: 185px;
+        padding:0px;
+       padding-bottom: 30px;
+        align-items: center;
+    justify-content: center;
+    flex-direction: column;
+        background-size: cover;
+}
+.demo-class-videos .box h4 {
+    font-size: 17px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0;
+    line-height: 25px;
+      height: 80px;
+}
+.demo-class-videos .box a{
+    margin-top: 5px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    height: 30px;
+    line-height: 29px;
+    width: 120px;
+    font-size: 14px;
+}
+.talk-our-students .left-side{
+ padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-top: 35px;
+    position: relative;
+    height: auto;
+}
+.talk-our-students .left-side h4 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: bold;
+    line-height: 26px;
+}
+
+.talk-our-students .left-side h4 span{
+        border: 1px solid #bf072b;
+    padding: 3px 10px;
+    border-radius: 5px;
+    background: #bf072b;
+    font-size: 20px;
+}
+
+.talk-our-students .left-side h4 p {
+    font-size: 18px;
+    font-weight: normal;
+    padding: 7px 0 0 0;
+}
+.talk-our-students .left-side .inner-box p {
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+}
+.talk-our-students .left-side .inner-box{
+    padding: 15px;
+}
+.talk-our-students .right-box-video {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.talk-our-students .right-box-video h4 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.cpa-exam-pattern {
+      padding: 30px 0px 0px 0px;
+}
+.cpa-exam-pattern .nav-tabs {
+ border-bottom: none;
+    width: 100%;
+    text-align: center;
+    flex-flow: nowrap;
+}
+
+.demo-class-videos-slider .owl-dots {
+    display: block !important;
+    margin-bottom: 30px;
+}
+
+.cpa-exam-pattern .nav-tabs .nav-link{
+    height: 36px;
+    text-align: center;
+    display: flow-root;
+    margin-bottom: 10px;
+    flex-shrink: 0;
+    white-space: nowrap;
+    padding: 0 18px;
+}
+.cpa-exam-pattern .tab-content {
+    padding: 0px 0px 0px 0px;
+}
+.cpa-exam-pattern .detail {
+    padding-top: 5px;
+}
+.cpa-exam-pattern .detail h4 {
+    text-align: center;
+}
+.cpa-exam-pattern .detail ul li {
+     font-size: 15px;
+    font-weight: 400;
+    padding: 7px 10px 8px 10px;
+    line-height: 20px;
+    width: 49%;
+    display: inline-flex;
+    height: 54px;
+    margin-bottom: 10px;
+}
+.cpa-exam-pattern .detail ul li:after{
+    background-size: 9px;
+    background-repeat: no-repeat;
+    left: -6px;
+    top: 12px;
+    height: 11px;
+    width: 11px;
+}
+.cpa-exam-pattern .tab-content .steps {
+    margin-top: 5px;
+}
+.cpa-exam-pattern .tab-content .steps ul li{
+        padding: 0 5px;
+        margin-bottom: 15px;
+    width: 49%;
+        justify-content: flex-start;
+}
+.cpa-exam-pattern .tab-content .steps ul li img {
+      margin-right: 15px;
+    width: 45px;
+}
+.cpa-exam-pattern .tab-content .steps ul li h4 {
+    line-height: 22px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.cpa-exam-pattern .tab-content .steps ul li h4 span {
+    font-size: 11px;
+    line-height: 14px;
+    display: block;
+    font-weight: normal;
+}
+.ques-score-brekdwn {
+    padding: 25px 0 0px 0;
+}
+.ques-score-brekdwn .graph-detail h4 {
+    font-size:20px;
+    margin-bottom:25px;
+}
+.ques-score-brekdwn .graph-detail .graph-box {
+    margin-bottom: 20px;
+}
+.ques-score-brekdwn .graph-detail .graph-box img{
+    width:45%;
+}
+.ques-score-brekdwn .graph-detail ul{
+        padding: 0px 0 0 0px;
+}
+.ques-score-brekdwn .graph-detail ul li {
+      list-style: none;
+    text-align: left;
+    color: #3a3a3a;
+    padding-left:30px;
+    font-size: 16px;
+    position: relative;
+    margin-bottom: 22px;
+}
+.ques-score-brekdwn .graph-detail ul li:nth-child(1):after{
+     height: 16px;
+    width: 16px;
+    top: 2px;
+}
+.ques-score-brekdwn .graph-detail ul li:nth-child(2):after{
+     height: 16px;
+    width: 16px;
+    top: 2px;
+}
+.ques-score-brekdwn .graph-detail ul li:nth-child(3):after{
+     height: 16px;
+    width: 16px;
+    top: 2px;
+}
+.ques-score-brekdwn .graph-detail ul li:nth-child(4):after{
+     height: 16px;
+    width: 16px;
+    top: 2px;
+}
+.ques-score-brekdwn .graph-detail.rightside ul li:nth-child(1):after{
+     height: 16px;
+    width: 16px;
+    top: 2px;  
+}
+.ques-score-brekdwn .graph-detail.rightside ul li:nth-child(2):after{
+     height: 16px;
+    width: 16px;
+    top: 2px;  
+}
+.ques-score-brekdwn .graph-detail.rightside{
+    padding-top:15px;
+}
+
+.types-questions .box h4{
+        font-size: 14px;
+            padding: 10px 0;
+}
+.types-questions h3.title{
+    margin-bottom: 25px;
+}
+.types-questions .box p{
+        padding: 0 15px;
+            font-size: 16px;
+                line-height: 24px;   
+    margin-top: 20px;
+
+}
+.types-questions .box {
+    height: auto;
+    margin-bottom: 15px;
+}
+.types-questions{
+  padding-bottom: 5px;
+    padding-top: 20px;
+}
+.cpa-exam-explained .table tr td{
+    padding: 10px;
+    font-size: 16px !important;
+    white-space: nowrap;
+    line-height: 27px;
+    vertical-align: middle;
+}
+.cpa-exam-explained .table tr th{
+      padding: 10px 15px;
+    font-size: 16px !important;
+    white-space: nowrap;
+    line-height: 27px;
+    vertical-align: middle;   
+}
+.cpa-exam-explained .table + p{
+        font-size:15px;
+    margin-bottom: 0px;
+}
+.become-cpa-Attempt .content-dtl{
+        padding:30px 0;
+}
+.become-cpa-Attempt .content-dtl h4 {
+     font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.become-cpa-Attempt .content-dtl p {
+    font-weight: 600;
+    color: #fff;
+    font-size: 16px;
+    padding: 0 10px;
+    margin-bottom: 0px;
+    text-align: center;
+    letter-spacing: 0;
+}
+.become-cpa-Attempt .content-dtl .dots2 {
+    position: absolute;
+    top: -23px;
+    left: 8px;
+}
+.how-edumont-better .table_container {
+    height: 450px;
+    overflow-x: auto;
+    position: relative;
+    overflow-y: hidden;
+}
+.cpa-exam-explained .table tfoot tr td:last-child{
+    text-align: left;
+}
+.become-cpa-Attempt .form-bg{
+     background-position: right;
+    background-size: cover;
+    position: relative;
+    padding: 30px 5px;
+}
+.become-cpa-Attempt .form-bg .book-now .cstm-btn {
+    margin-top: 0px;
+}
+.become-cpa-Attempt .form-bg .dots{
+    display: none;
+}
+.how-edumont-better h3.title {
+    margin-bottom: 35px;
+}
+.how-edumont-better .table tr td img {
+    width: 13px;
+}
+.how-edumont-better .table tr td:first-child{
+        width: 195px;
+            font-size: 10px
+}
+
+.how-edumont-better .table tr td:first-child p{
+        line-height: 16px;
+    font-size: 11px;
+}
+.how-edumont-better .table tr th{
+    font-size:13px;
+}
+ /* ::-webkit-scrollbar {
+    width: 2px;
+}
+ ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    border-radius: 0px;
+}
+ ::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 0 5px #bf072b;
+} */
+
+.how-edumont-better .outer:after{
+        bottom: -2px;
+            height: 14px;
+                width: 100%;
+}
+.how-edumont-better .arrows{
+        bottom: -18px;
+    width: 28px;
+}
+.happy-student .box {
+    max-width:96%;
+    margin: 0 auto;
+}
+.happy-student .owl-nav{
+    display: none !important;
+}
+.happy-student .box iframe{
+        height: 150px;
+}
+.happy-student .content{
+        padding: 10px 0;
+        bottom: 0;
+}
+
+.happy-student .content h4 {
+    font-size: 14px;
+    line-height: 19px;
+    margin: 0 0 5px 0;
+    padding: 0 0 5px 0;
+    font-weight: 600;
+}
+
+.happy-student .content h4 img {
+    width: 22px;
+    top: 5px;
+}
+.happy-student .content p img{
+        width: 70px;
+}
+.what-students-aboutus .img{
+        max-width: 100%;
+}
+.what-students-aboutus .img:after{
+    width: 92%;
+    height: 107%;
+    /*background: #bf072b;*/
+    top: -7px;
+}
+.what-students-aboutus .detail {
+   padding: 0 10px;
+    position: relative;
+}
+.what-students-aboutus .detail p i {
+    color: #bf072b;
+    font-size: 12px;
+    display: block;
+    margin-bottom: 8px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.what-students-aboutus .detail p {
+    font-size: 13px;
+    text-align: center;
+}
+.what-students-aboutus .img img {
+    width: 80%;
+    height:110%;
+    margin: 0 auto;
+    /*border-radius: 100px;*/
+}
+
+.what-students-aboutus .item{
+    background:#fff;
+        margin: 20px 0 30px 0;
+}
+
+.uscpa-jobs-seek .box h4:after{
+        bottom: -7px;
+}
+.uscpa-jobs-seek .box p {
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.uscpa-jobs-seek .box img {
+    width:100px;
+    margin-top: 8px;
+}
+
+.uscpa-jobs-seek .box .inner{
+    border-radius: 6px;
+        padding: 10px;
+}
+.uscpa-jobs-seek .box{
+    height: 254px;
+    margin-bottom: 15px;
+}
+.uscpa-jobs-seek .row{
+flex-flow: nowrap;
+    overflow-x: scroll;
+}
+.uscpa-jobs-seek .row .col-sm-3{
+    width: 85%;
+}
+
+.uscpa-jobs-seek .arrow {
+    margin-top: 0;
+}
+footer{
+        padding: 20px 0px 75px 0px;
+}
+footer h3 {
+    margin-bottom:20px;
+}
+footer h4 {
+    margin-bottom: 15px;
+}
+footer h4 img {
+    border-radius: 4px;
+    width: 100px;
+}
+footer h4 span{
+        font-size: 24px;
+            letter-spacing: 1px;
+            top: 4px;
+}
+footer h5 {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+footer .box{
+        border-radius: 4px;
+    max-width:100%;
+}
+footer .box h4
+{
+    font-size: 16px;
+    border-radius: 0;
+    padding: 15px 0;
+}
+footer .box p{
+    font-size: 16px;
+    display: block;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+footer .box p img {
+    width: 42px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+footer .row .col-sm-6{
+    width:50%;
+    padding:0 5px;
+}
+footer .box.rights p img {
+    width: 33px;
+    margin-bottom: 15px;
+
+}
+
+.footer-mobile {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        display: block;
+        right: 0;
+        background: #fff;
+        z-index: 998;
+        width: 100%;
+        height:48px;
+        box-shadow: 0px -5px 5px -3px #ccc;
+        border-top: 1px solid #dedede;
+    }
+    .footer-mobile a {
+ display: inline-block;
+    padding: 12px 9px;
+    background: transparent;
+    color: #000;
+    text-decoration: none;
+    width: 50%;
+    font-weight: 60;
+    border-radius: 4px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    margin: 1px 0 0 0;
+    text-align: center;
+    float: left;
+    }
+    .footer-mobile a i{
+font-size: 18px;
+    padding-right: 4px;
+    position: relative;
+    top: 2px;
+    color: #383838;
+    }
+    .footer-mobile a:after {
+        position: absolute;
+        content: "";
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+        height: 90%;
+        width: 1px;
+        bottom: 4%;
+        background:#d3d3d3;
+    }
+.subscribe-form .book-now .form-container {
+    padding: 0;
+}
+.subscribe-form .btn-close{
+    position: absolute;
+    right: 11px;
+    top: 7px;
+    z-index: 2;
+}
+.subscribe-form .book-now .form-container {
+    padding: 15px 0 0 0;
+}
+.subscribe-form .book-now .cstm-btn button.btn-cstm {
+    padding: 8px 10px 8px 10px;
+}
+.subscribe-form .modal-dialog{
+        top:10%;
+}
+.modal-open{
+    overflow: hidden;
+}
+.become-cpa-Attempt .form-bg .container .row .col-sm-6{
+        padding-right: 15px;
+}
+.become-cpa-Attempt .form-bg .container .row .col-sm-12 {
+     max-width: 99%;
+    margin: 0;
+}
+.become-cpa-Attempt .form-bg .book-now .form-group .form-control {
+    padding: 6px 15px;
+    font-size: 13px;
+}
+.demo-class-videos .accordion .accordion-button span.hdng{
+        width: 95%;
+}
+
+#dr-p{
+    text-align:center;
+    margin-top:10px;
+}
+
+
+
+}
